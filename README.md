@@ -1,2 +1,2 @@
 # Dynamic-Classifier-Ensembling-for-Bankruptcy-Prediction
-[embed] https://drive.google.com/file/d/1S7KnLkLZ21YEuEUYgeNxx1RQ9El7X7qt/view?usp=sharing [/embed]
+[Proj_Report.pdf](https://github.com/EziGo96/Dynamic-Classifier-Ensembling-for-Bankruptcy-Prediction/files/10430700/Proj_Report.pdf)
