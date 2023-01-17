@@ -1,0 +1,81 @@
+Random forest classifier 
+             precision    recall  f1-score   support
+
+           0       0.99      0.99      0.99      2939
+           1       0.28      0.28      0.28        61
+
+    accuracy                           0.97      3000
+   macro avg       0.63      0.63      0.63      3000
+weighted avg       0.97      0.97      0.97      3000
+
+[[2896   43]
+ [  44   17]]
+
+GradientBoosting Classifier
+              precision    recall  f1-score   support
+
+           0       0.99      0.98      0.99      2939
+           1       0.42      0.54      0.47        61
+
+    accuracy                           0.98      3000
+   macro avg       0.70      0.76      0.73      3000
+weighted avg       0.98      0.98      0.98      3000
+
+[[2893   46]
+ [  28   33]]
+XgBoost classifier
+              precision    recall  f1-score   support
+
+           0       0.99      0.99      0.99      2939
+           1       0.49      0.48      0.48        61
+
+    accuracy                           0.98      3000
+   macro avg       0.74      0.73      0.74      3000
+weighted avg       0.98      0.98      0.98      3000
+
+[[2909   30]
+ [  32   29]]
+
+Adaboost  classifier
+              precision    recall  f1-score   support
+
+           0       0.99      0.87      0.93      2939
+           1       0.10      0.67      0.17        61
+
+    accuracy                           0.87      3000
+   macro avg       0.55      0.77      0.55      3000
+weighted avg       0.97      0.87      0.91      3000
+
+[[2570  369]
+ [  20   41]]
+
+ANN Classifier
+              precision    recall  f1-score   support
+
+           0       0.99      0.81      0.89      2939
+           1       0.07      0.72      0.13        61
+
+    accuracy                           0.81      3000
+   macro avg       0.53      0.77      0.51      3000
+weighted avg       0.97      0.81      0.88      3000
+
+[[2379  560]
+ [  17   44]]
+optimal value of alpha:  0.0
+optimal value of beta:  0.8
+optimal value of gamma:  0.2
+optimal value of delta:  0.0
+optimal value of theta:  0.0
+Ensemble Classifier
+              precision    recall  f1-score   support
+
+         0.0       0.99      0.98      0.99      2934
+         1.0       0.44      0.61      0.51        67
+
+    accuracy                           0.97      3001
+   macro avg       0.71      0.80      0.75      3001
+weighted avg       0.98      0.97      0.98      3001
+
+[[2881   53]
+ [  26   41]]
+test_comapny 83 has a 99.99674759331984 percentage probability of being Not-Bankrupt
