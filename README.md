@@ -1,2 +1,2 @@
 # Parametric-Classifier-Ensembling-for-Bankruptcy-Prediction
-[Readme](https://github.com/EziGo96/Dynamic-Classifier-Ensembling-for-Bankruptcy-Prediction/files/10430700/Proj_Report.pdf)
+[Readme](https://github.com/EziGo96/Parametric-Classifier-Ensembling-for-Bankruptcy-Prediction/blob/main/ECE_592_Project/Proj_Report.pdf)
